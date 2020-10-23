@@ -1,9 +1,9 @@
-#Website Package
--unlimited pages 
+# Website Package
+- Unlimited pages 
 - Website Builder System 
 - E-commerce Module 
-- wish list
-- unlimited product
+- Wish list
+- Unlimited product
 - Product catalog module 
 - 5 Promotion Banner 
 - Social Media Plugins 
@@ -12,11 +12,11 @@
 - Payment Gateway Integration 
 - Google Map integration 
 - Enquiry Form & 
-- monthly sales Reporting 
-- google sitemap 
+- Monthly sales Reporting 
+- Google sitemap 
 - Live chat Integration 
 - Support 3 months
 - On field product training 1day 
 - FOC First year ( domain + Hosting ) 
 - Renewal RM499/year ( hosting + domain )
-Seup fee RM 1500
+## Seup fee 1 time RM 1500
